@@ -13,6 +13,8 @@ pandas = "^1.5.3"
 
 [tool.poetry.group.dev.dependencies]
 autopep8 = "^2.0.2"
+jupyter = "^1.0.0"
+notebook = "^6.5.4"
 
 [build-system]
 requires = ["poetry-core"]
